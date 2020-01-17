@@ -1,2 +1,2 @@
 # page-replacement-fifo
-Assignment using FIFO algorithm for page replacement
+Project using FIFO algorithm for page replacement
